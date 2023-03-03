@@ -1,0 +1,11 @@
+name: ligo
+
+dependencies:
+  - ipykernel
+  - matplotlib
+  - python
+  - numpy
+  - h5py
+  - scipy
+  - ipython
+  - decorator
